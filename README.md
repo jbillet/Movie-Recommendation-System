@@ -8,9 +8,7 @@ Nowadays many consumers find movies to watch based on advertisements or word of 
 
 Our team was thrilled to see how clean this dataset was. It is a rare occasion to have dataset of over 100,000 so clean. We initially looked at the distribution of the Average Rating Score and Number of Movies, as well as the Ratings and the Number of Review.
 
-
-
-# INSERT PICTURE 
+https://github.com/jbillet/Mod-4-Project/blob/master/Distribution%20of%20Movies%20by%20their%20Avg.%20Rating.png
 
 
 
